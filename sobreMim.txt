@@ -1,0 +1,5 @@
+Meu nome é Caroline. Enquanto escrevo isso sou aluna do PretaLab, ciclo 12. Estou fazendo esse curso
+com o propósito de aprofundar meus conhecimentos para ter uma base sólida, e me tornar uma profissional
+em desenvolvimento front-end qualificada e preparada para o mercado de trabalho. No curso de Git e GitHub,
+conhecer e praticar o versionamento de código, e conhecer outras práticas, principalmente o clone do
+repostório remoto no local.
